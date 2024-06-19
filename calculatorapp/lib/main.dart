@@ -74,7 +74,7 @@ class _CalculatorState extends State<Calculator> {
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     children: [
                       calcbutton(
-                          'AC', Colors.grey, Color.fromARGB(255, 6, 179, 41)),
+                          'AC', Colors.grey, Color.fromARGB(255, 12, 6, 179)),
                       calcbutton(
                           '+/-', Colors.grey, Color.fromARGB(255, 6, 179, 41)),
                       calcbutton(
